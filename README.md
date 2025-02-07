@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JavaScript and C++<br>👯 I’m looking to collaborate on People<br>🌱 I’m currently learning Git and GitHub<br>⚡ Reach Out me : vaishnavshubham857@gmail.com
+🔭 I’m currently working on Python and Java <br>👯 I’m looking to collaborate on People<br>🌱 I’m currently learning advanced web concept<br>⚡ Reach Out me : vaishnavshubham857@gmail.com
 
 
 ## 🌐 Socials:
