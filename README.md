@@ -1,16 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=180&section=header&text=Shubham%20Vaishnav&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=160&section=header&text=Shubham%20Vaishnav&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
+<!-- Introduction -->
 <h3>🚀 Full-Stack Engineer | Backend, Databases & System Design</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=9985ef&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+💻;System+Design+Enthusiast+🚀;DSA+%7C+DBMS+%7C+Backend+Engineering;Building+Products,+Not+Just+Projects" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=9985EF&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer+%F0%9F%92%BB;System+Design+Enthusiast+%F0%9F%9A%80;DSA+%7C+DBMS+%7C+Backend+Engineering;Building+Products%2C+Not+Just+Projects" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:EC4899&height=3"/>
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:EC4899&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=shubham-vaishnav-13&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS"/>
 
 </div>
-
----
 
 ## 🧠 About Me
 
